@@ -1,2 +1,5 @@
 # BBDownEasyGui
-Pequeña interfaz que facilita las descargas de la herramienta BBDown.exe
+
+Interfaz sencilla que facilita las descargas desde BiliBili.com, usando de intermediario la Herramienta BBDown (Mira su repo aquí https://github.com/nilaoda/BBDown)
+
+Sin fines de lucro y solo automatizar la descarga 👍
