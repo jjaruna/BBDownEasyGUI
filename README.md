@@ -8,7 +8,7 @@ Sin fines de lucro y solo para automatizar las descargas 👍
 Antes de empezar a usar la GUI, necesitas tener BBDown y FFmpeg, visita esta guia en donde detallo de mejor manera la instalación de estas dependencias:
 https://docs.google.com/document/d/1XcQ9lzWzLcbDGTV6IsACja0arwLurvx_x1vhgBE9-Ng
 
-Ahora si.
+Acá solo explicare el uso del GUI, visita los docs para instalar las otras dependencias.
 
 Tener el .exe en la misma carpeta que BBDown.exe, procedemos a abrirlo:
 
