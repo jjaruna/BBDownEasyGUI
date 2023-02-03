@@ -51,9 +51,12 @@ Uan vez que dejen de salir caracteres un poco raros, puedes volver a la carpeta 
 
 ![7](https://user-images.githubusercontent.com/106907367/216335577-991db13b-143d-4679-93f5-e1d36caf0ed7.PNG)
 
+* Lo mas probable si bajaste un archivo MUY grande, es que este se demore en aparecer en formato mp4 y en su caso tendrás una carpeta con archivos sueltos. Solo tienes que esperar un tiempo (Dependiendo de tu PC) para que aparezca el archivo .MP4 con todo. (Ty Zhika por el aviso).
+
 # Erorres y Actualizaciones
 
 * Tratare de mantener actualizada la guia tanto esta y como la del DOCS (que esta ultima está más detallada, visitenla)
+* Puede que sufras o sientas como se lagea el pc despues de hacer una descarga muy grande (+ 1GB), es normal ya que se está haciendo el post procesado por atrás.
 
 * En caso de errores con la interfaz u otras dudas o sugerencias, me puedes contactar vía discord: Jaruna#2496
 
