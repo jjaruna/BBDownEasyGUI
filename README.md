@@ -36,8 +36,8 @@ Y en el segundo parametro, tenemos que ingresar los comandos disponibles que tie
 
 ![1 4](https://user-images.githubusercontent.com/106907367/216333465-5cbcc26f-2b22-445b-a095-b2ddddea6772.PNG)
 
-* Para descargar en 1080p, solo necesitas agregar el -tv (Por eso a la derecha dejo un mensaje de "poner el -tv"), pero si podemos poner OTRO tipo de parametros. 
-* Acá te dejo algunos de los que he testeado personalmente y me han funcionado de manera correcta (Se irá actualizando en la medida que descubra más BiliBili)
+* Para descargar en 1080p solo necesitas agregar el -tv. 
+* Acá te dejo algunos de los parametros que he testeado personalmente y me han funcionado de manera correcta (Se irá actualizando en la medida que descubra más BiliBili)
 
 ![screenshot-docs google com-2023 02 02-10_09_02](https://user-images.githubusercontent.com/106907367/216334054-97ec5edd-5789-4cd8-acdf-9cd6714dc66d.png)
  
