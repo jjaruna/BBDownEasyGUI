@@ -5,12 +5,14 @@ Interfaz sencilla que facilita las descargas desde BiliBili.com, usando de inter
 Sin fines de lucro y solo para automatizar las descargas 👍
 
 # Uso
-Antes de empezar a usar la GUI, necesitas tener BBDown y FFmpeg, visita esta guia en donde detallo de mejor manera la instalación de estas dependencias:
+Antes de empezar a usar la GUI necesitas tener FFmpeg isntalado, visita esta guia en donde detallo de mejor manera la instalación de esta dependencia:
 https://docs.google.com/document/d/1XcQ9lzWzLcbDGTV6IsACja0arwLurvx_x1vhgBE9-Ng
 
-Acá solo explicare el uso del GUI, visita los docs para instalar las otras dependencias.
+Ahora si vamos con el modo de uso.
 
-Tener el .exe en la misma carpeta que BBDown.exe, procedemos a abrirlo:
+Lo primero es descomprimir el .rar en una carpeta (Importante tener BBDownEasyGUI en la misma carpeta que BBDown.exe).
+
+Procedemos a abrir BBDownEasyGUI:
 
 ![5](https://user-images.githubusercontent.com/106907367/216330714-397fdf8b-930c-4b52-a3a6-7251aee2059f.PNG)
 
