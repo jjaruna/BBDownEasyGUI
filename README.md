@@ -1,6 +1,6 @@
-# BBDownEasyGui
+# BBDownEasyGUI
 
-Simple interface that facilitates downloads from BiliBili.com, using the BBDown Tool as an intermediary. (Check ur repo: https://github.com/nilaoda/BBDown)
+Simple interface that facilitates downloads from BiliBili.com, using the BBDown Tool as an intermediary. (Check out their repo: https://github.com/nilaoda/BBDown)
 
 Non-profit and only to automate downloads. 👍
 
@@ -9,65 +9,65 @@ Non-profit and only to automate downloads. 👍
 * English: https://docs.google.com/document/d/1H-UZlhf1KnoLo1C0FrkkUy3B1jNyVCgHoErziogNJ84
 * Spanish: https://docs.google.com/document/d/1XcQ9lzWzLcbDGTV6IsACja0arwLurvx_x1vhgBE9-Ng
 
-# Uso
-Antes de empezar a usar la GUI necesitas tener FFmpeg isntalado, visita esta guia en donde detallo de mejor manera la instalación de esta dependencia:
-https://docs.google.com/document/d/1XcQ9lzWzLcbDGTV6IsACja0arwLurvx_x1vhgBE9-Ng
+# USAGE
 
-Ahora si vamos con el modo de uso.
+Before you can start using the GUI you need to have FFmpeg installed, visit one of the guides above to install it (depending on your language).
 
-Lo primero es descomprimir el .rar en una carpeta (Importante tener BBDownEasyGUI en la misma carpeta que BBDown.exe).
+Once installed you can follow the steps here or in the doc, they are the same.
 
-Procedemos a abrir BBDownEasyGUI:
+The first thing is to unzip the .rar in a folder (Important to have BBDownEasyGUI in the same folder as BBDown.exe).
 
-![5](https://user-images.githubusercontent.com/106907367/216330714-397fdf8b-930c-4b52-a3a6-7251aee2059f.PNG)
+We proceed to open BBDownEasyGUI:
 
-Deberiamos ver algo como esto. Importante NO cerrar el CMD que se abre de fondo, por ahí veremos el progreso de descarga.
+![3](https://user-images.githubusercontent.com/106907367/216889199-d4319b1e-6817-4af0-940c-a8d4e66c236f.PNG)
 
-Seguido esto, lo que haremos será cargar nuestro ejecutable (que en este caso es el BBDown de la misma carpeta)
+We should see something like this. Important NOT to close the CMD that opens in the background, that's where we will see the download progress.
 
-![1 1](https://user-images.githubusercontent.com/106907367/216331158-39e4b4a4-fd80-4ee3-b614-d0ee3df4abf6.PNG)
+After that, we will load our executable (which in this case is the BBDown from the same folder)
 
-![1 2](https://user-images.githubusercontent.com/106907367/216331184-a570bb1f-e846-4d20-be60-38e4bc0cdb00.PNG)
+![5](https://user-images.githubusercontent.com/106907367/216889256-4c5a9819-291f-41e8-a091-4e6fdcb305e1.PNG)
 
-Una vez que en la consola nos salga ".exe cargado!", será que el BBDown esta listo para ser ejecutado.
+![66](https://user-images.githubusercontent.com/106907367/216889266-a47bf33f-d0c5-4ac3-9123-988458ef861c.PNG)
 
-Ahora nos quedan los 2 parametros para agregar. En el primero vamos a introducir la ULR del video en cuestión.
-* El formato de ingreso de la url es filtrando despues de "/video/". 
-* Ejemplo: "https://www.bilibili.com/video/BV1TG4y1Q7Bw/?vd_source=25b47ea4aaceb21f75a622726184c4c8". De este link lo unico que nos interesa es "BV1TG4y1Q7Bw" para ingresar en la casilla de parametro 1.
+Once the console displays "Executable loaded!", the BBDown is ready to be executed.
 
-![1 3](https://user-images.githubusercontent.com/106907367/216333062-c2db18a1-e2aa-4745-bde8-6eb3e191e353.PNG)
+Now we have 2 parameters to add. In the first one we are going to enter the ULR of the video.
+* The url input format is filtering after "/video/". 
+* Example: "https://www.bilibili.com/video/BV1U84y1s71t/?vd_source=25b47ea4aaceb21f75a622726184c4c8". From this link the only thing we are interested in is "BV1U84y1s71t" to enter in the box of parameter 1.
 
-Y en el segundo parametro, tenemos que ingresar los comandos disponibles que tiene la herramienta.
+![7](https://user-images.githubusercontent.com/106907367/216889615-85077d2f-9356-4ca1-8e25-3e5e5e7bf57f.PNG)
 
-![1 4](https://user-images.githubusercontent.com/106907367/216333465-5cbcc26f-2b22-445b-a095-b2ddddea6772.PNG)
+And in the second parameter, we have to enter the available commands that the tool has.
 
-* Para descargar en 1080p solo necesitas agregar el -tv. 
-* Acá te dejo algunos de los parametros que he testeado personalmente y me han funcionado de manera correcta (Se irá actualizando en la medida que descubra más BiliBili)
+![8](https://user-images.githubusercontent.com/106907367/216889662-ccaf06ee-2063-4455-a014-f4dbdfd2a401.PNG)
 
-![screenshot-docs google com-2023 02 02-10_09_02](https://user-images.githubusercontent.com/106907367/216334054-97ec5edd-5789-4cd8-acdf-9cd6714dc66d.png)
+* To download in 1080p you only need to add the -tv. 
+* Here are some of the parameters that I have personally tested and have worked correctly for me (will be updated as I discover more BiliBili)
+
+![screenshot-docs google com-2023 02 06-02_20_31](https://user-images.githubusercontent.com/106907367/216889859-3a863204-ed64-48a8-b161-197167211705.png)
+
+Thank you Snowy for recommending the subtitles parameter.
  
- Gracias Snowy por recomendar el parametro de los subtitulos 🧡
+ Once the 2 parameters are ready, just click on the "Download Video!" button.
  
- Una vez los 2 parametros listos solo faltaria en clickear el boton de "¡Descargar Video!"
+ If you followed everything to the letter, you should be seeing something like this:
  
- Si seguiste al pie de la letra todo, deberías estar viendo algo como esto:
- 
-![6](https://user-images.githubusercontent.com/106907367/216335183-439faebc-c2ad-4a2e-ba19-bd532edbe2ab.PNG)
+![9](https://user-images.githubusercontent.com/106907367/216889917-1cf034be-d636-476a-a25c-f7396a7a6eb2.PNG)
 
-Uan vez que dejen de salir caracteres un poco raros, puedes volver a la carpeta donde dejaste los .exe y pum! Debería estar el video en 1080p 👍
+Once the weird characters stop coming out, you can go back to the folder where you left the .exe's and bam! You should have a 1080 video 👍
 
-![7](https://user-images.githubusercontent.com/106907367/216335577-991db13b-143d-4679-93f5-e1d36caf0ed7.PNG)
+![00](https://user-images.githubusercontent.com/106907367/216890000-4dea2532-8e02-422c-b142-97401d68c821.PNG)
 
-* Lo mas probable si bajaste un archivo MUY grande, es que este se demore en aparecer en formato mp4 y en su caso tendrás una carpeta con archivos sueltos. Solo tienes que esperar un tiempo (Dependiendo de tu PC) para que aparezca el archivo .MP4 con todo. (Ty Zhika por el aviso).
+* Most likely if you downloaded a VERY large file, it will take a while for it to appear in mp4 format and in your case you will have a folder with loose files. You just have to wait a while (depending on your PC) for the .MP4 file to appear with everything (Ty Zhika for the warning).
 
-# Erorres y Actualizaciones
+# Errors and Updates
 
-* Tratare de mantener actualizada la guia tanto esta y como la del DOCS (que esta ultima está más detallada, visitenla)
-* Puede que sufras o sientas como se lagea el pc despues de hacer una descarga muy grande (+ 1GB), es normal ya que se está haciendo el post procesado por atrás.
+* I will try to keep the guide updated both this and the DOCS guide (the latter is a bit more detailed, visit it).
+* You may suffer or feel the pc lags after making a very large download (+ 2GB), it is normal since the post processing is being done in the back.
 
-* En caso de errores con la interfaz u otras dudas o sugerencias, me puedes contactar vía discord: Jaruna#2496
+* In case of bugs with the interface or other doubts or suggestions, you can contact me via Discord: Jaruna#2496
 
-No soy programador, pero estare aceptando feedbacks y trabajando para mejorar 👍
+I am not a programmer, but I will be accepting feedback and working to improve 👍.
 
 
 
