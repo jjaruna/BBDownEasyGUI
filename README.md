@@ -6,8 +6,8 @@ Non-profit and only to automate downloads. 👍
 
 # DOCS
 
-* English:
-* Spanish:
+* English: https://docs.google.com/document/d/1H-UZlhf1KnoLo1C0FrkkUy3B1jNyVCgHoErziogNJ84
+* Spanish: https://docs.google.com/document/d/1XcQ9lzWzLcbDGTV6IsACja0arwLurvx_x1vhgBE9-Ng
 
 # Uso
 Antes de empezar a usar la GUI necesitas tener FFmpeg isntalado, visita esta guia en donde detallo de mejor manera la instalación de esta dependencia:
