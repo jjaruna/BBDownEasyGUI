@@ -1,8 +1,13 @@
 # BBDownEasyGui
 
-Interfaz sencilla que facilita las descargas desde BiliBili.com, usando de intermediario la Herramienta BBDown (Mira su repo aquí https://github.com/nilaoda/BBDown)
+Simple interface that facilitates downloads from BiliBili.com, using the BBDown Tool as an intermediary. (Check ur repo: https://github.com/nilaoda/BBDown)
 
-Sin fines de lucro y solo para automatizar las descargas 👍
+Non-profit and only to automate downloads. 👍
+
+#DOCS
+
+* English:
+* Spanish:
 
 # Uso
 Antes de empezar a usar la GUI necesitas tener FFmpeg isntalado, visita esta guia en donde detallo de mejor manera la instalación de esta dependencia:
