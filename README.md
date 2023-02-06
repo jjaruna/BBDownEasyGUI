@@ -4,7 +4,7 @@ Simple interface that facilitates downloads from BiliBili.com, using the BBDown 
 
 Non-profit and only to automate downloads. 👍
 
-#DOCS
+# DOCS
 
 * English:
 * Spanish:
