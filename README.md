@@ -19,29 +19,20 @@ The first thing is to unzip the .rar in a folder (Important to have BBDownEasyGU
 
 We proceed to open BBDownEasyGUI:
 
-![3](https://user-images.githubusercontent.com/106907367/216889199-d4319b1e-6817-4af0-940c-a8d4e66c236f.PNG)
+![n1](https://user-images.githubusercontent.com/106907367/218401472-4997766f-ffa1-46ad-822d-17b4fba4e87c.PNG)
 
 We should see something like this. Important NOT to close the CMD that opens in the background, that's where we will see the download progress.
 
-After that, we will load our executable (which in this case is the BBDown from the same folder)
-
-![5](https://user-images.githubusercontent.com/106907367/216889256-4c5a9819-291f-41e8-a091-4e6fdcb305e1.PNG)
-
-![66](https://user-images.githubusercontent.com/106907367/216889266-a47bf33f-d0c5-4ac3-9123-988458ef861c.PNG)
-
-Once the console displays "Executable loaded!", the BBDown is ready to be executed.
 
 Now we have 2 parameters to add. In the first one we are going to enter the ULR of the video.
-* The url input format is filtering after "/video/". 
-* Example: "https://www.bilibili.com/video/BV1U84y1s71t/?vd_source=25b47ea4aaceb21f75a622726184c4c8". From this link the only thing we are interested in is "BV1U84y1s71t" to enter in the box of parameter 1.
 
-![7](https://user-images.githubusercontent.com/106907367/216889615-85077d2f-9356-4ca1-8e25-3e5e5e7bf57f.PNG)
+![2](https://user-images.githubusercontent.com/106907367/218401561-260eae9b-f002-44b1-8591-c73d0f17b41e.PNG)
 
 And in the second parameter, we have to enter the available commands that the tool has.
 
-![8](https://user-images.githubusercontent.com/106907367/216889662-ccaf06ee-2063-4455-a014-f4dbdfd2a401.PNG)
+![n3](https://user-images.githubusercontent.com/106907367/218401598-3d9d42b6-83c0-44f6-8be5-ad846bd69dbe.PNG)
 
-* To download in 1080p you only need to add the -tv. 
+* To download in 1080p just click on the "-tv" option just below the box to add it automatically.
 * Here are some of the parameters that I have personally tested and have worked correctly for me (will be updated as I discover more BiliBili)
 
 ![screenshot-docs google com-2023 02 06-02_20_31](https://user-images.githubusercontent.com/106907367/216889859-3a863204-ed64-48a8-b161-197167211705.png)
@@ -52,7 +43,7 @@ Thank you Snowy for recommending the subtitles parameter.
  
  If you followed everything to the letter, you should be seeing something like this:
  
-![9](https://user-images.githubusercontent.com/106907367/216889917-1cf034be-d636-476a-a25c-f7396a7a6eb2.PNG)
+![n4](https://user-images.githubusercontent.com/106907367/218401642-2a163980-3022-48af-9df5-5450f46d50d5.PNG)
 
 Once the weird characters stop coming out, you can go back to the folder where you left the .exe's and bam! You should have a 1080 video 👍
 
