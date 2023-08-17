@@ -1,5 +1,7 @@
 # BBDownEasyGUI
 
+IF YOU GOT A "TO MANY REQUEST" ERROR, DOWNLOAD THE .RAR AGAIN, THE BINARY IS ALREADY UPLOADED WITH THE SOLUTION.
+
 Simple interface that facilitates downloads from BiliBili.com, using the BBDown Tool as an intermediary. (Check out their repo: https://github.com/nilaoda/BBDown)
 
 Non-profit and only to automate downloads. 👍
