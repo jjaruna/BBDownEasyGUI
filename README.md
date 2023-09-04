@@ -8,6 +8,8 @@ Simple interface that facilitates downloads from BiliBili.com, using the BBDown 
 
 Non-profit and only to automate downloads. 👍
 
+Tutorial en Español: https://youtu.be/8jgFAhRUEXg?si=lC9jTrhSkg237kZh
+
 # DOCS
 
 * English: https://docs.google.com/document/d/1H-UZlhf1KnoLo1C0FrkkUy3B1jNyVCgHoErziogNJ84
