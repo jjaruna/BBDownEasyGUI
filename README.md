@@ -1,7 +1,7 @@
 # BBDownEasyGUI
 
-IF YOU GOT A "Arg_KeyNotFound" ERROR, DOWNLOAD THE .RAR AGAIN, THE BINARY IS ALREADY UPLOADED WITH THE SOLUTION. / 
-SI TIENES UN ERROR "Arg_KeyNotFound", DESCARGUE DE NUEVO EL .RAR, EL BINARIO YA ESTÁ CARGADO CON LA SOLUCIÓN.
+* IF IT DOES NOT DOWNLOAD WITH -tv USE --debug
+* SI NO DESCARGA CON -tv USA --debug
 
 
 Simple interface that facilitates downloads from BiliBili.com, using the BBDown Tool as an intermediary. (Check out their repo: https://github.com/nilaoda/BBDown)
