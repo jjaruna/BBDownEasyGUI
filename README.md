@@ -1,7 +1,7 @@
 # BBDownEasyGUI
 
-* IF IT DOES NOT DOWNLOAD WITH -tv USE --debug
-* SI NO DESCARGA CON -tv USA --debug
+* FIXED, USE -TV NORMALLY
+* ARREGLADO, USA -TV CON NORMALIDAD
 
 
 Simple interface that facilitates downloads from BiliBili.com, using the BBDown Tool as an intermediary. (Check out their repo: https://github.com/nilaoda/BBDown)
