@@ -10,6 +10,8 @@ Non-profit and only to automate downloads. 👍
 
 Tutorial en Español: https://youtu.be/8jgFAhRUEXg?si=lC9jTrhSkg237kZh
 
+No descargas a 1080p? Acá explico la solución: https://www.youtube.com/watch?v=7CNrrwuwQY4
+
 # DOCS
 
 * English: https://docs.google.com/document/d/1H-UZlhf1KnoLo1C0FrkkUy3B1jNyVCgHoErziogNJ84
